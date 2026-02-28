@@ -1,0 +1,13 @@
+# Ignore config with secrets
+config.php
+.env
+
+# Ignore OS junk
+Thumbs.db
+.DS_Store
+
+# Ignore vendor folders if using composer
+/vendor/
+
+# Ignore real SQL dumps
+sql/production_dump.sql
