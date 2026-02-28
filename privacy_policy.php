@@ -14,7 +14,6 @@ include('includes/header.php');
         <li>Account-related Information: Username, password, etc.</li>
         <li>Usage Information: How you interact with our services, IP address, browser type, etc.</li>
     </ul>
-
     <h3>2. How We Use Your Information</h3>
     <p>The information we collect is used to:</p>
     <ul>
