@@ -5,7 +5,6 @@ config.php
 # Ignore OS junk
 Thumbs.db
 .DS_Store
-
 # Ignore vendor folders if using composer
 /vendor/
 
